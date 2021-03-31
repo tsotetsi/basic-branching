@@ -1,2 +1,2 @@
-# basic-branching
-Basic Branching
+# basic-git-branching
+Basic Git Branching
